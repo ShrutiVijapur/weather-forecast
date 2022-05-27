@@ -37,8 +37,8 @@ Forecast+="\n wind Gust Speed : "+wind_Gustspeed +" KM/H"
 
 print(Forecast)
 
-gmail_user = 'rspythondev2@gmail.com'
-gmail_password = 'Vedu@2021'  ##password mail
+gmail_user = '' 
+gmail_password = ''  ##password mail
 
 sent_from = gmail_user
 to = ['Sumanjit.Saha@dell.com','Roopesh_C1@Dell.com']   #Sumanjit.Saha@dell.com
